@@ -320,3 +320,15 @@ h1 { text-align:center; }
     margin-right:10px;
 }
 
+a.button,
+a.button:hover,
+a.button:active,
+a.button:visited
+{
+    color:#222;
+    margin:5px;
+    padding:5px 10px;
+    border:1px solid #000;
+    display:inline-block;
+    text-decoration:none;
+}
