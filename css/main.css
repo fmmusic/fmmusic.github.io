@@ -310,12 +310,12 @@ textarea {
 
 h1 { text-align:center; }
 
-#sheet-music > div:after {
+.sheet-music > div:after {
     content: "";
     display: table;
     clear: both;
 }
-#sheet-music > div img {
+.sheet-music > div img {
     float:left;
     margin-right:10px;
 }
