@@ -318,6 +318,7 @@ h1 { text-align:center; }
 .sheet-music > div img {
     float:left;
     margin-right:10px;
+    max-width:380px;
 }
 
 a.button,
